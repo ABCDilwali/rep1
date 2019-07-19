@@ -7,5 +7,5 @@ Group | Member1 | Member2 | Member3 | Member4
 5 | Hart | Akaluso | McLaughlin | Abdulrahmon
 6 | Ahmed | Farrington | Trinh | -
 7 | Gao | Zou | Mello | Beygi
-8 | Aliago | Patricia (TTH) | - | -
+8 | Aliaga | Patricia (TTH) | - | -
 9 | Dahmer | Vo | Urioste | -
